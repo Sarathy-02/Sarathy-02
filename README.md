@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Partha Sarathy** — a passionate software developer and ex-ASE at Accenture 💼✨.  
+I'm **Parthasarathy** — a passionate software developer and ex-ASE at Accenture 💼✨.  
 I love building clean, efficient, and scalable applications that solve real-world problems 🚀.  
 Currently, I'm exploring new technologies and sharpening my skills in full-stack development and AI 🤖💻.  
 
