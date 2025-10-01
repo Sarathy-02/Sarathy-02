@@ -13,7 +13,7 @@ I love building clean, efficient, and scalable applications that solve real-worl
 💬 Ask me about **Java, React, Data Science, or anything tech-related!**  
 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/parthasarathy-m-4a59b62b3/)  
 
-⚡ Fun fact: I enjoy turning complex challenges into simple, elegant solutions! 😄
+⚡ Fun fact: I believe code is like art — every line should be simple, elegant, and meaningful 🎨💻  
 
 ---
 
@@ -36,9 +36,3 @@ I love building clean, efficient, and scalable applications that solve real-worl
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/parthasarathy-m-4a59b62b3/)  
 - [Portfolio](https://sara-xi.vercel.app/)  
-
----
-
-### 🌟 Fun Fact
-I earn **Brownie Points** for every project you check 😄  
-I love experimenting with new tech and sharing knowledge with the community!
