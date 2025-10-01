@@ -1,3 +1,8 @@
+<!-- Add your GIF here -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding GIF"/>
+</p>
+
 ## Hi there! 👋
 
 I'm **Parthasarathy** — a passionate software developer and ex-ASE at Accenture 💼✨.  
@@ -8,7 +13,7 @@ I love building clean, efficient, and scalable applications that solve real-worl
 💬 Ask me about **Java, React, Data Science, or anything tech-related!**  
 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/parthasarathy-m-4a59b62b3/)  
 
-⚡ Fun fact: I enjoy turning complex challenges into simple, elegant solutions!
+⚡ Fun fact: I enjoy turning complex challenges into simple, elegant solutions! 😄
 
 ---
 
@@ -25,12 +30,6 @@ I love building clean, efficient, and scalable applications that solve real-worl
 - Advanced **React** & **Node.js**  
 - **Machine Learning** & AI concepts  
 - Cloud platforms like **AWS** and **Azure**  
-
----
-
-### 📊 GitHub Stats
-![Parthasarathy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarathy-02&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarathy-02&layout=compact&theme=radical)
 
 ---
 
