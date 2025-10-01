@@ -22,7 +22,7 @@ I love building clean, efficient, and scalable applications that solve real-worl
 - **Frontend:** React, HTML, CSS, TailwindCSS, Bootstrap  
 - **Backend:** Node.js, Spring Boot, Express  
 - **Database:** MongoDB, MySQL, Oracle  
-- **Tools & Others:** Git, REST APIs, Docker, GitHub Actions, Oracle APEX  
+- **Tools & Others:** Git, REST APIs
 
 ---
 
