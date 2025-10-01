@@ -2,11 +2,44 @@
 
 I'm **Parthasarathy** — a passionate software developer and ex-ASE at Accenture 💼✨.  
 I love building clean, efficient, and scalable applications that solve real-world problems 🚀.  
-Currently, I'm exploring new technologies and sharpening my skills in full-stack development and AI 🤖💻.  
 
 🌱 Always eager to learn and grow in the world of tech.  
 👯 Looking to collaborate on exciting projects and innovative ideas.  
-💬 Feel free to ask me about Java, React, Data Science, or anything tech-related!  
-📫 Reach me at https://www.linkedin.com/in/parthasarathy-m-4a59b62b3/.  
+💬 Ask me about **Java, React, Data Science, or anything tech-related!**  
+📫 Reach me at [LinkedIn](https://www.linkedin.com/in/parthasarathy-m-4a59b62b3/)  
 
 ⚡ Fun fact: I enjoy turning complex challenges into simple, elegant solutions!
+
+---
+
+### 🛠️ Skills & Technologies
+- **Languages:** Java, Python, JavaScript, SQL  
+- **Frontend:** React, HTML, CSS, TailwindCSS, Bootstrap  
+- **Backend:** Node.js, Spring Boot, Express  
+- **Database:** MongoDB, MySQL, Oracle  
+- **Tools & Others:** Git, REST APIs, Docker, GitHub Actions, Oracle APEX  
+
+---
+
+### 🔭 Currently Learning
+- Advanced **React** & **Node.js**  
+- **Machine Learning** & AI concepts  
+- Cloud platforms like **AWS** and **Azure**  
+
+---
+
+### 📊 GitHub Stats
+![Parthasarathy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarathy-02&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarathy-02&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/parthasarathy-m-4a59b62b3/)  
+- [Portfolio](https://sara-xi.vercel.app/)  
+
+---
+
+### 🌟 Fun Fact
+I earn **Brownie Points** for every project you check 😄  
+I love experimenting with new tech and sharing knowledge with the community!
