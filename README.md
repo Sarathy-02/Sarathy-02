@@ -1,8 +1,6 @@
 <!-- Add your GIF here -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/80145954-fcde-4af6-8d78-f092bc11aeef" width="400" alt="Parthasarathy Profile Picture" style="border-radius: 50%;" />
-</p>
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding GIF"/>
 </p>
 
 ## Hi there! 👋
