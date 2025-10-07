@@ -1,7 +1,6 @@
 <!-- Add your GIF here -->
 <p align="center">
-  <img width="400" height="400" alt="Gemini_Generated_Image_rkklpirkklpirkkl" src="https://github.com/user-attachments/assets/80145954-fcde-4af6-8d78-f092bc11aeef" />
-
+  <img src="https://github.com/user-attachments/assets/80145954-fcde-4af6-8d78-f092bc11aeef" width="400" alt="Parthasarathy Profile Picture" style="border-radius: 50%;" />
 </p>
 
 </p>
